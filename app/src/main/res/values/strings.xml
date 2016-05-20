@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BroadcastSender</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send_broadcast">Send Broadcast</string>
+    <string name="message_from_broadcast_receiver_app">Message from Broadcast Receiver app</string>
+</resources>
